@@ -14,5 +14,10 @@
             </p>
             <a href="http://www.github.com/kamto-alt/" style="display:block;" target="_blank">visit my github account</a>
             <img src="me.jpg" alt="kamtochukwu divine uzoma" style="width:200px;height:auto;">
+            <table>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+            </table>
         </body>
         </html>
